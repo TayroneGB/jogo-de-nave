@@ -42,8 +42,6 @@ do {
                 dadosBordo(Nome, Vel)
             break   
         default:
-            alert("Encerrando progrma de bordo")
-
-            break;
+            alert("Encerrando progrma de bordo")         
     }
 }while(ChosenOption !="4")
